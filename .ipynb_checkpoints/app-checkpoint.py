@@ -2,7 +2,7 @@
 # Start the server:
 # 	python run_keras_server.py
 # Submit a request via cURL:
-# 	curl -X POST -F image=@face.jpg 'http://localhost:5000/predict'
+# 	curl -X POST -F image=@dog.jpg 'http://localhost:5000/predict'
 # Submita a request via Python:
 # 	python simple_request.py
 
