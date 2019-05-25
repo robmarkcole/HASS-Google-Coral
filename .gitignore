@@ -66,3 +66,6 @@ coverage.xml
 
 # Sphinx documentation
 docs/_build/
+development/.ipynb_checkpoints/general-objects-checkpoint.ipynb
+development/.ipynb_checkpoints/helpers-checkpoint.py
+development/.ipynb_checkpoints/general-objects-checkpoint.ipynb

@@ -1,0 +1,8 @@
+{
+        "domain": "google_coral",
+        "name": "Google Coral custom component",
+        "documentation": "https://github.com/robmarkcole/HASS-Google-Coral",
+        "requirements": [],
+        "dependencies": [],
+        "codeowners": ["@robmarkcole"]
+}
