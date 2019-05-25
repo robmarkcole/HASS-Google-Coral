@@ -20,5 +20,5 @@ image_processing:
 </p>
 
 <p align="center">
-<img src="https://github.com/robmarkcole/HASS-Google-Coral/blob/master/images/usage_2.png" width="500">
+<img src="https://github.com/robmarkcole/HASS-Google-Coral/blob/master/images/usage_2.png" width="300">
 </p>
