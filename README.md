@@ -14,3 +14,11 @@ image_processing:
       - entity_id: camera.local_file
         name: google_coral_car
 ```
+
+<p align="center">
+<img src="https://github.com/robmarkcole/HASS-Google-Coral/blob/master/images/usage_1.png" width="500">
+</p>
+
+<p align="center">
+<img src="https://github.com/robmarkcole/HASS-Google-Coral/blob/master/images/usage_2.png" width="500">
+</p>
